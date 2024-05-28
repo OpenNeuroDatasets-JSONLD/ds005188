@@ -1,0 +1,27 @@
+This dataset was obtained by the team at the Center for Neurocognitive Research (MEG Center) of Moscow State University of Psychology and Education as part of a study on vowel perception and their properties in children (Fadeev et al., 2024). It includes MEG recordings from 35 children with autism spectrum disorders and 39 typically developing children.
+
+**Experimental procedure:** 
+
+The participants were instructed to watch a silent video (movie/cartoon) of their choice and to ignore the auditory stimuli. The stimuli were delivered binaurally via plastic ear tubes inserted into the ear canals. The tubes were fixed to the MEG helmet to minimize possible noise from contact with the subject’s clothing. The intensity was set at a sound pressure level of 90 dB SPL. The experiment consisted of three blocks of 360 trials, each block lasting around 9 minutes with short breaks between blocks.
+
+
+**Stimuli:**
+
+The experimental paradigm used in this study is identical to that described in Orekhova et al. (2023). We used four types of synthetic vowel-like stimuli previously employed by Uppenkamp et al. (2006) and downloaded from [http://medi.uni-oldenburg.de/members/stefan/phonology_1/](http://medi.uni-oldenburg.de/members/stefan/phonology_1/). Five strong vowels were used: /a/ (caw, dawn), /e/ (ate, bait), /i/ (beat, peel), /o/ (coat, wrote), and /u/ (boot, pool). A total of 270 stimuli from each of the four classes were presented, with three stimulus variants equally represented within each class (N = 90). All stimuli were presented in random order. Each stimulus lasted 812 ms, including rise/fall times of 10 ms each. The interstimulus intervals (ISI) were randomly chosen from a range of 500 to 800 ms.
+
+**Dataset content:**
+
+- `database/sub.../ses-vowels/meg/...meg.fif` -- 3 runs (in some cases, the number of runs may differ due to the subjects' features). MEG data were recorded using Elekta VectorView Neuromag 306-channel MEG detector array (Helsinki, Finland) with 0.1 - 330 Hz inbuilt filters and 1000 Hz sample frequency.
+- `database/sub.../ses-vowels/anat/` --  T1-weighted images MRI.
+
+**Acknowledgements:**
+
+We sincerely thank all of volunteers who participated in this study. The study was funded within the framework of the state assignment of the Ministry of Education of the Russian Federation (N 073-00037-24-01).
+
+**References:**
+
+1. Gutschalk, A., & Uppenkamp, S. (2011). Sustained responses for pitch and vowels map to similar sites in human auditory cortex. Neuroimage, 56(3), 1578-1587. doi:10.1016/j.neuroimage.2011.02.026
+
+2. Orekhova, E. V., Fadeev, K. A., Goiaeva, D. E., Obukhova, T. S., Ovsiannikova, T. M., Prokofyev, A. O., & Stroganova, T. A. (2023). Different Hemispheric Lateralization for Periodicity and Formant Structure of Vowels in the Auditory Cortex and Its Changes between Childhood and Adulthood. Cortex. doi:10.1016/j.cortex.2023.10.020
+
+3. Uppenkamp, S., Johnsrude, I. S., Norris, D., Marslen-Wilson, W., & Patterson, R. D. (2006). Locating the initial stages of speech-sound processing in human temporal cortex. Neuroimage, 31(3), 1284-1296. doi:10.1016/j.neuroimage.2006.01.004
