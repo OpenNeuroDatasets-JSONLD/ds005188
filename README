@@ -11,8 +11,8 @@ The experimental paradigm used in this study is identical to that described in O
 
 **Dataset content:**
 
-- `database/sub.../ses-vowels/meg/...meg.fif` - 3 runs (in some cases, the number of runs may differ due to the subjects' features). MEG data were recorded using Elekta VectorView Neuromag 306-channel MEG detector array (Helsinki, Finland) with 0.1 - 330 Hz inbuilt filters and 1000 Hz sample frequency.
-- `database/sub.../ses-vowels/anat/` -  T1-weighted images MRI.
+- `database/sub.../ses-vowels/meg/...meg.fif` -- 3 runs (in some cases, the number of runs may differ due to the subjects' features). MEG data were recorded using Elekta VectorView Neuromag 306-channel MEG detector array (Helsinki, Finland) with 0.1 - 330 Hz inbuilt filters and 1000 Hz sample frequency.
+- `database/sub.../ses-vowels/anat/` --  T1-weighted images MRI.
 
 **Acknowledgements:**
 
