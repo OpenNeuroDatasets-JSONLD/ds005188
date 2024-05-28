@@ -1,6 +1,6 @@
 This dataset was obtained by the team of Center for Neurocognitive Research (MEG Center) of Moscow State University of Psychology and Education as part of a study of vowel perception and their properties properties in children (Fadeev et al., 2024). In this dataset, we included MEG recordings from 35 children with autism spectrum disorders and 39 typically developing children.
 
-Experimental procedure:
+*Experimental procedure:*
 
 The participants were instructed to watch a silent video (movie/cartoon) of their own choice and to ignore the auditory stimuli. The stimuli were delivered binaurally via plastic ear tubes inserted into the ear channels. The tubes were fixed to the MEG helmet in order to minimize possible noises resulting from their contact with the subject’s clothing. The intensity was set at a sound pressure level of 90 dB SPL. The experiment included three blocks of 360 trials, each block lasting around 9 minutes with short breaks between blocks.
 
